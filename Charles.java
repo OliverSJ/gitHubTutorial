@@ -5,5 +5,5 @@ public class Charles
 	//method
 	private int dataMember;
 	
-	
+
 }
