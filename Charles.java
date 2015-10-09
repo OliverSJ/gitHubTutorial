@@ -7,4 +7,8 @@ public class Charles
 	private int dataMember2;
 	private int dataMember3;
 	
+	public Charles()
+	{
+		
+	}
 }
