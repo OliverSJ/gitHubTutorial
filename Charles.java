@@ -4,6 +4,7 @@ public class Charles
 
 	//method
 	private int dataMember;
-	
+	private int dataMember2;
+	private int dataMember3;
 	
 }
